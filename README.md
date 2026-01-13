@@ -36,7 +36,7 @@ Essendo un sito statico, l'installazione richiede pochi secondi:
 
 Clona il repository:
 
-git clone [https://github.com/TUO-USERNAME/vixprime.git](https://github.com/TUO-USERNAME/vixprime.git)
+git clone [https://github.com/Ak1r4Yuk1/Streaming-Website-Only-Html-and-JS/tree/main](https://github.com/Ak1r4Yuk1/Streaming-Website-Only-Html-and-JS)
 
 
 Entra nella cartella:
