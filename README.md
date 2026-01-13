@@ -4,8 +4,6 @@ Questo progetto è un fork di Schumynet/vixprime, ottimizzato per funzionare in 
 
 VixPrime è una piattaforma web moderna per lo streaming di contenuti multimediali che non necessita di un backend dedicato, garantendo velocità, privacy e facilità di deploy.
 
-Vuoi provarlo senza installarlo? [Vai al sito](https://player.akirayuki.online/)
-
 ### ✨ Caratteristiche Principali
 
 Zero Backend: Il sito comunica direttamente con le API di VixSrc.to. Non sono necessari database o server Node.js/PHP.
