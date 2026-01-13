@@ -8,7 +8,7 @@ Vuoi provarlo senza installarlo? [Vai al sito](https://player.akirayuki.online/)
 
 ### ✨ Caratteristiche Principali
 
-Zero Backend: Il sito comunica direttamente con le API di VixSrc.com. Non sono necessari database o server Node.js/PHP.
+Zero Backend: Il sito comunica direttamente con le API di VixSrc.to. Non sono necessari database o server Node.js/PHP.
 
 Gestione Preferiti: Possibilità di aggiungere o rimuovere Film e Serie TV dalla propria lista personale con un click.
 
